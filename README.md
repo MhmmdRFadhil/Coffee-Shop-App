@@ -7,7 +7,7 @@ Simple coffee shop application using firebase with 2 view levels <br><br>
 Use your own google-service.json
 
 ## Screenshot 
-### User View
+<b>User View</b>
 <p align="center">
     <img src="/screenshot/Splashscreen.jpg"
         alt="Splash Screen"    
@@ -43,7 +43,7 @@ Use your own google-service.json
         width="200" />
 </p>
 
-### Admin View
+<b>Admin View</b>
 <p align="center">
     <img src="/screenshot/Admin Home.jpg"
         alt="Admin Home"    
