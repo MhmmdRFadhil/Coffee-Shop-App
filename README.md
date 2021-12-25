@@ -89,9 +89,6 @@ Some libraries I used to:
 - Picasso
 - Etc
 
-## Contact
-Muhammad Rizqan Fadhil - [LinkedIn](https://www.linkedin.com/in/rzqnfadhil/)
-
 ## License
 MIT License
 
