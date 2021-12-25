@@ -3,6 +3,9 @@
 Simple coffee shop application using firebase with 2 view levels <br><br>
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)
 
+## TODO
+Use your own google-service.json
+
 ## Screenshot 
 ### User View
 <p align="center">
