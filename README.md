@@ -34,7 +34,7 @@ Simple coffee shop application using firebase with 2 view levels <br><br>
         alt="Favorite"    
         style="margin-right: 10px;"    
         width="200" />
-   <img src="/screenshot/Profile.jpg"
+   <img src="/screenshot/User Profile.jpg"
         alt="Profile"    
         style="margin-right: 10px;"    
         width="200" />
