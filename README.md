@@ -95,7 +95,7 @@ Muhammad Rizqan Fadhil - [LinkedIn](https://www.linkedin.com/in/rzqnfadhil/)
 ## License
 MIT License
 
-Copyright (c) 2021 Naufal Abiyyu Mayusuf
+Copyright (c) 2021 Muhammad Rizqan Fadhil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
